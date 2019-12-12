@@ -28,7 +28,3 @@ IDE Plugins: Prettier - Code formatter, TSLint
 ### Start production app
 
 `npm run start`
-
-### Build and Start application docker
-
-`sudo docker-compose -f docker-compose.yml up --build -d`
