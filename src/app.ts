@@ -9,5 +9,5 @@ const port = config.get('http.port')
 app.use('/', appRoute.router)
 
 app.listen(port, () => {
-    console.log('Server running..')
+    console.log(`Server running on ${port}..`)
 })
