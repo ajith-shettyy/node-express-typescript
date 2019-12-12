@@ -1,6 +1,6 @@
 # node-express-typescript
 
-This is a sample service to adapt typescript in our micro service
+This is a sample service to adapt typescript in Node Express
 
 ## Prerequisites
 Before you begin, make sure your development environment includes Node.js® (v10.15) , npm package manager and git.
