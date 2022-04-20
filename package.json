@@ -19,6 +19,6 @@
     },
     "dependencies": {
         "express": "^4.17.1",
-        "convict": "4.4.1"
+        "convict": "6.2.2"
     }
 }
